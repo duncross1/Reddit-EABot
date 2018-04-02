@@ -6,4 +6,4 @@ A BOT for reddit that replys to comments (on certain subs) containing the phrase
 
 If you wish to run this bot you will need to update its config file with your reddit bot accounts login and application details
 
-if you want to run a bot is suggest you follow this guide: https://www.reddit.com/r/RequestABot/comments/3d3iss/a_comprehensive_guide_to_running_your_bot_that/
+if you want to run a bot I suggest you follow this guide: https://www.reddit.com/r/RequestABot/comments/3d3iss/a_comprehensive_guide_to_running_your_bot_that/
